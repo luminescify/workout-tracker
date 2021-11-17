@@ -9,7 +9,7 @@ app.get('/workouts', async (req, res) => {
         }
       }])
       .sort({
-          day: -1
+          day: 1
       })
       .then(findWorkout => {
         res.json(findWorkout)
