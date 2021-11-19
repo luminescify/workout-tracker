@@ -28,6 +28,8 @@ This project utilizes JavaScript, Bootstrap, Node, Express, and MongoDB. Functio
 
 ## Demo
 
+You can find the deployed version of this site [here](https://fathomless-everglades-16310.herokuapp.com/?id=619480fcf4e9390016b6b0c3).
+
 Upon opening the application, a user is greeted with their previously logged workout.
 
 ![img](./assets/Last-Workout.png)
